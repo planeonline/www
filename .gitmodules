@@ -1,0 +1,4 @@
+[submodule "service-layer"]
+	path = service-layer
+	url = git@github.com:planeon/service-layer.git
+	branch = master
