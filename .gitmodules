@@ -2,3 +2,7 @@
 	path = service-layer
 	url = git@github.com:planeon/service-layer.git
 	branch = master
+[submodule "presentation-layer"]
+	path = presentation-layer
+	url = git@github.com:planeon/presentation-layer.git
+	branch = master
