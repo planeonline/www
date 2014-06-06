@@ -1,8 +1,8 @@
 [submodule "service-layer"]
 	path = service-layer
-	url = git@github.com:planeonline/service-layer.git
+	url = https://github.com/planeonline/service-layer.git
 	branch = master
 [submodule "presentation-layer"]
 	path = presentation-layer
-	url = git@github.com:planeonline/presentation-layer.git
+	url = https://github.com/planeonline/presentation-layer.git
 	branch = master
